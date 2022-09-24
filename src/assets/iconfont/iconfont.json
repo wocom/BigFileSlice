@@ -1,0 +1,16 @@
+{
+  "id": "3669754",
+  "name": "大文件上传",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9335973",
+      "name": "上传内容2",
+      "font_class": "shangchuanneirong",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}
